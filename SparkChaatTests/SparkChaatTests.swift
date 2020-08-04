@@ -1,16 +1,9 @@
-//
-//  SparkChaatTests.swift
-//  SparkChaatTests
-//
-//  Created by alik on 04.08.20.
-//  Copyright © 2020 ALI KIRAN. All rights reserved.
-//
+import RxSwift
 
-import XCTest
 @testable import SparkChaat
+import XCTest
 
 class SparkChaatTests: XCTestCase {
-
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
@@ -26,9 +19,8 @@ class SparkChaatTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        self.measure {
+        measure {
             // Put the code you want to measure the time of here.
         }
     }
-
 }
