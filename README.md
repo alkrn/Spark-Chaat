@@ -12,7 +12,7 @@ In the initial phase, it's awesome to see how do you approach the problem. How d
 
 ## Let's make our hands dirty
 
-Our chat component should present a conversation screen to chat with existing users.
+Our chat component should present a chat screen
 
 Please don't worry about the design, interface should be similar enough to the screeshot
 
