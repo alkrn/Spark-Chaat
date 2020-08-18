@@ -183,11 +183,11 @@ class ServerAPI {
                         "message": "Fina"
                     },
                     {
-                        "conversation_id": "94661740",
-                        "sent_by": "d2d80ecf-5515-4460-a88a-7236ffc30ae8",
-                        "message_type": "IMAGE",
-                        "sent_at": "2020-07-31T15:07:44.175152Z",
-                        "message": "b571f13e-c4ee-46b4-9fb0-b856487ea6e0"
+                        "conversation_id": "90366540",
+                        "sent_by": "074b25e9-4ea6-413c-955e-d8e1e4d82778",
+                        "message_type": "MESSAGE",
+                        "sent_at": "2020-07-30T14:38:25.114448Z",
+                        "message": "What's up"
                     },
                     {
                         "conversation_id": "94661740",
@@ -211,7 +211,7 @@ class ServerAPI {
                         "message": "afb9be9b-53ed-4fac-9045-2e01ea54fbb8"
                     },
                     {
-                        "conversation_id": "94661740",
+                        "conversation_id": "90366540",
                         "sent_by": "d2d80ecf-5515-4460-a88a-7236ffc30ae8",
                         "message_type": "IMAGE",
                         "sent_at": "2020-08-03T15:34:38.463733Z",
